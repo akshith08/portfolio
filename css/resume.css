@@ -750,20 +750,20 @@ input:focus, textarea:focus {
   margin-right: 30px;
 }
 
-.slided {
+.slidez {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-#arrow-leftd {
+#arrow-leftz {
   border-width: 20px 30px 20px 0;
   border-color: transparent #fff transparent transparent;
   left: 0;
   margin-left: 30px;
 }
 
-#arrow-rightd {
+#arrow-rightz {
   border-width: 20px 0 20px 30px;
   border-color: transparent transparent transparent #fff;
   right: 0;
