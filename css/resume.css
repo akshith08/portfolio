@@ -221,6 +221,18 @@ section.resume-section {
   color: red;
 }
 
+/* NEW EDITS */
+@media (min-width: 1100px){
+  .card{
+   width: 72rem;
+  }
+  .card-ima{
+   width: 475px;
+ }
+}
+
+/* TO THIS.. */
+
 .success {
   color: red;
   text-align: center;
@@ -293,7 +305,7 @@ section.resume-section {
 }
 
 .card-ima{
-  width: 600px;
+  width: 475px;
   height: 350px;
 }
 
